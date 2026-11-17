@@ -3,3 +3,6 @@
 *.bak
 *.bak2
 *.gpkg
+
+# Raw OS Open Names data (1.7 GB) used only by make_placenames.py
+Week_2/Data/
